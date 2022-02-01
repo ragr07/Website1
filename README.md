@@ -1,4 +1,5 @@
-![AppVeyor](https://img.shields.io/appveyor/build/RagrFlpy/Website1?color=green&label=build%20&logoColor=green&style=plastic)  ![npm bundle size](https://img.shields.io/bundlephobia/minzip/json)
+  ![npm bundle size](https://img.shields.io/bundlephobia/minzip/json)
+
 
 # Website1
 Die Website von Rafael und Felix.
