@@ -2,13 +2,47 @@ body {
     background-color: aquamarine;
 }
 
-h1 {
-color: black;
-text-align: center
+#Main-Überschrift {
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
 }
 
 h2 {
-
+    color: blue;
+    font-size: x-large;
+    text-align: center;
+    text-decoration: underline;
 }
 
-...
+#one {
+    text-align: center;
+}
+
+#two {
+    text-align: center;
+}
+
+#three {
+    text-align: center;
+}
+
+#four {
+    text-align: center;
+}
+
+#five {
+    font-size: large;
+    color: darkmagenta;
+}
+
+#seven {
+    font-size: larger;
+    color: crimson;
+}
+
+#eight {
+    font-size: large;
+    color: crimson;
+}
