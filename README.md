@@ -12,3 +12,9 @@ Sie können uns unterstützen, indem Sie Diskussionen starten oder das Repositor
 Wir werden uns vielleicht eine Domän holen, die folgernder Weise sein könnte:
 
 https://www.rafael-felix.de
+
+### Die Funktion am Anfang der Website
+
+``fuction hello(); {
+alert ("Hallo Besucher dieser Website!);
+}``
