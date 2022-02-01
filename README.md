@@ -18,3 +18,5 @@ https://www.rafael-felix.de
 ``fuction hello(); {
 alert ("Hallo Besucher dieser Website!);
 }``
+
+Diese JavaScript-Funktion wird Ihnen am Anfang angezeigt. Also nur der Inhalt, der mit dem Befehl *"alert"* hervorgerufen wird.
