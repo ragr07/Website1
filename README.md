@@ -8,3 +8,7 @@ Wir bitten um Geduld.
 Sie können uns unterstützen, indem Sie Diskussionen starten oder das Repository forken. 
 
 ### Vielen lieben Dank!
+
+Wir werden uns vielleicht eine Domän holen, die folgernder Weise sein könnte:
+
+https://www.rafael-felix.de
