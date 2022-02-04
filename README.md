@@ -32,7 +32,7 @@ Diese JavaScript-Funktion wird Ihnen am Anfang angezeigt. Also nur der Inhalt, d
 
 ### Erste Vorschau/erster Einblick
 
-![Screenshot (16)](https://user-images.githubusercontent.com/91688044/152540649-c7ffb06c-7eb1-4b99-aa66-c368f6a74d0c.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/91688044/152540875-e7382f05-1e3f-478e-a1ee-dab2358f7d60.png)
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/91688044/152540497-77fc2e54-3129-4df0-b1fb-5e617e8922ea.png)
 
