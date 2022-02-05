@@ -1,4 +1,4 @@
-  ![npm bundle size](https://img.shields.io/bundlephobia/minzip/json)  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9DtN8kXsa10chTbpoTIZvQ?style=social)  ![GitHub followers](https://img.shields.io/github/followers/rafael0014?label=rafael0014&style=social)
+  ![npm bundle size](https://img.shields.io/bundlephobia/minzip/json)  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9DtN8kXsa10chTbpoTIZvQ?style=social)  ![GitHub followers](https://img.shields.io/github/followers/rafael0014?label=rafael0014%20follower&style=social)
 
 
 # Website1
