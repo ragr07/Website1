@@ -25,7 +25,7 @@ alert ("Hallo Besucher dieser Website!);
 Diese JavaScript-Funktion wird Ihnen am Anfang angezeigt. Also nur der Inhalt, der mit dem Befehl *"alert"* hervorgerufen wird.
 
 
-### Contributors
+### 👨‍💻Contributors
 
 - [@rafael0014](https://github.com/rafael0014)
 - [@RagrFlpy](https://github.com/RagrFlpy)
