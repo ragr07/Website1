@@ -1,4 +1,4 @@
-   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9DtN8kXsa10chTbpoTIZvQ?style=social)  ![GitHub followers](https://img.shields.io/github/followers/rafael0014?label=rafael0014%20follower&style=social)  ![GitHub followers](https://img.shields.io/github/followers/RagrFlpy?label=RagrFlpy%20follower&style=social)
+  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9DtN8kXsa10chTbpoTIZvQ?style=social)  ![GitHub followers](https://img.shields.io/github/followers/rafael0014?label=rafael0014%20follower&style=social)  ![GitHub followers](https://img.shields.io/github/followers/RagrFlpy?label=RagrFlpy%20follower&style=social)
 
 
 # 🌐Website1
@@ -18,7 +18,7 @@ https://www.rafael-felix.de
 
  ### Die Funktion am Anfang der Website
 
-``fuction hello(); {
+``function hello(); {
 alert ("Hallo Besucher dieser Website!);
 }``
 
@@ -43,4 +43,3 @@ Diese JavaScript-Funktion wird Ihnen am Anfang angezeigt. Also nur der Inhalt, d
 ```<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2? family=Festlich&display=swap" rel="stylesheet">
-
