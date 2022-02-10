@@ -1,3 +1,3 @@
-function hello(); {
+function hello() {
 alert ("Hallo Besucher dieser Website!);
 }
