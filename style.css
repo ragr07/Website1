@@ -1,4 +1,4 @@
-/* Importieren von Google Fonts Schriftart */
+U/* Importieren von Google Fonts Schriftart */
 
 @import url('https://fonts.googleapis.com/css2? family=Festlich&display=swap');
 
@@ -10,7 +10,7 @@ html,
 body {
     background-color: aquamarine;
     font-family: 'Festive', cursive;
-    background-image: url(http://hintergrundbild.org/wallpaper/full/0/4/2/76914-farbverlauf-hintergrundbilder-2560x2048-samsung-galaxy.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8TuB7-E4P8jp04tnJ_jbnn4bDFQvQXvRGng&usqp=CAU.jpg);
 }
 
 /* Hauptüberschrift (fett, groß, unterstrichen) */
