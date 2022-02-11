@@ -36,5 +36,5 @@ Diese JavaScript-Funktion wird Ihnen am Anfang angezeigt. Also nur der Inhalt, d
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/91688044/152540497-77fc2e54-3129-4df0-b1fb-5e617e8922ea.png)
 
-(Stand: 04.12.21)
+(Stand: 04.02.2022)
 
