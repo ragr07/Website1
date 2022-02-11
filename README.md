@@ -1,4 +1,4 @@
-  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9DtN8kXsa10chTbpoTIZvQ?style=social)  ![GitHub followers](https://img.shields.io/github/followers/rafael0014?label=rafael0014%20follower&style=social)  ![GitHub followers](https://img.shields.io/github/followers/RagrFlpy?label=RagrFlpy%20follower&style=social)
+  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9DtN8kXsa10chTbpoTIZvQ?style=social)  ![GitHub followers](https://img.shields.io/github/followers/rafael0014?label=rafael0014%20follower&style=social)  ![GitHub followers](https://img.shields.io/github/followers/RagrFlpy?label=RagrFlpy%20follower&style=social) ![platforms: Chrome, Microsoft Edge, Firefox, ...](https://img.shields.io/badge/platforms-Chrome%2C%20Miccrosoft%20Edge%2C%20Firefox-green)
 
 
 # 🌐Website1
