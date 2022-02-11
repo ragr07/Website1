@@ -36,10 +36,3 @@ Diese JavaScript-Funktion wird Ihnen am Anfang angezeigt. Also nur der Inhalt, d
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/91688044/152540497-77fc2e54-3129-4df0-b1fb-5e617e8922ea.png)
 
-### Schriftart
-
-- [Festlich](https://fonts.google.com/?query=Festlich)
-- zu HTML-Datei hinzufügen: 
-```<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2? family=Festlich&display=swap" rel="stylesheet">
