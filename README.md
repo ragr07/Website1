@@ -26,7 +26,7 @@ Diese JavaScript-Funktion wird Ihnen am Anfang angezeigt. Also nur der Inhalt, d
 
 ### 👨‍💻Contributors
 
-- [@ArcticPenguin07](https://github.com/ArcticPenguin07)
+- [@ragr07](https://github.com/ragr07)
 - [@RagrFlpy](https://github.com/RagrFlpy)
 
 ### Erste Vorschau/erster Einblick
